@@ -9,15 +9,6 @@ Horarios y normas para las presentaciones de alumnos duales de **1º DAM** (Desa
 * [Contenido de la presentación](#contenido-de-la-presentación)
 * [Formato de la presentación](#formato-de-la-presentación)
 
-2-Formato y material de apoyo a la presentación: diapositivas (10-15) o video, y que entreguen una copia
-3-Contenido de la presentación:
-3.1-introducción a la empresa
-3.2-tareas desempeñadas con temporalización por semanas
-3.3-conocimientos adquiridos por módulo
-3.4-valoración de la experiencia dual por parte del alumno
-3.5-preguntas y aclaraciones
-
-
 ## Cuadrante horario de las presentaciones
 
 El cuadrante horario de las presentaciones se puede descargar en formato pdf en el siguiente enlace:
