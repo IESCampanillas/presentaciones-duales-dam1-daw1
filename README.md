@@ -47,3 +47,24 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [García Molina, Jorge - Tecnilógica]()
 * [Aragón Rodríguez, Rafael - Tecnilógica]()
 
+### Martes 28
+
+* [Herrera Fonseca, Antonio – Avanade]()
+* [Jiménez Quintana, José Daniel – Avanade]()
+* [Gómez Peña, Alberto – Viewnext]()
+* [Pérez Molina, Iván - Viewnext]()
+* [Perea Ropero, Mercedes – Viewnext]()
+* [Haller Ríos, Lino - Viewnext]()
+* [Domínguez Barrientos, Rosa María - Viewnext]()
+* [Del Pino Heredia, Laura - Viewnext]()
+
+# Miércoles 29
+
+* [Romero Medina, Francisco José - Freepik]()
+* [Campos Vega, Álvaro – Dekra]()
+* [Cardoso Canillas, Samuel - DXC]()
+* [Robles Bastida, José – CGI]()
+* [Montes Expósito, Rafael – Rocketfy]()
+* [Gómez Martín, José María – Rocketfy]()
+* [Morales Conejo, Alejandro – Indra]()
+* [Galera García, José Ángel – Indra]()
