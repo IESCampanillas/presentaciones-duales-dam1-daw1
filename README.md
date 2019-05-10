@@ -7,15 +7,7 @@ Horarios y normas para las presentaciones de alumnos duales de **1º DAM** (Desa
 * [Índice a los repositorios con las presentaciones](#índice-a-los-repositorios-con-las-presentaciones)
 * [Tiempo para la presentación](#tiempo-para-la-presentación)
 * [Contenido de la presentación](#contenido-de-la-presentación)
-* [Normas de clase](#normas-de-clase)
-* [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
-* [Perfiles de GitHub](#perfiles-de-github)
-* [Horarios](#horarios)
-* [Diario de trabajo de FP Dual](#diario-de-trabajo-de-fp-dual)
-* [Proyecto final](#proyecto-final)
-* [Localización](#localizacion)
-* [Enlaces](#enlaces)
-
+* [Formato de la presentación](#formato-de-la-presentación)
 
 2-Formato y material de apoyo a la presentación: diapositivas (10-15) o video, y que entreguen una copia
 3-Contenido de la presentación:
@@ -73,7 +65,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 La presentación durará un mínimo de 15 minutos y un máximo de 20, dejando 5 minutos para un turno de preguntas.
 
-### Contenido de la presentación
+## Contenido de la presentación
 
 La presentación debe tener, como mínimo, el siguiente contenido:
 
@@ -83,4 +75,10 @@ La presentación debe tener, como mínimo, el siguiente contenido:
 * Conocimientos adquiridos por cada módulo profesional.
 * Valoración de la experiencia dual por parte del alumno.
 
+# Formato de la presentación
 
+Se puede utilizar cualquier herramienta para elaborar la presentación. El alumno se puede apoyar en material multimedia si lo considera oportuno.
+
+Independientemente de la herramienta utilizada para crear y mostrar la presentación, debe haber una versión en pdf en el repositorio de GitHub.
+
+Cualquier material utilizado en la presentación debe estar disponible desde el repositorio de GitHub: presentación original, presentación en formato pdf, enlaces a videos, etc.
