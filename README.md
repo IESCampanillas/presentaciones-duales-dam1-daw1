@@ -5,7 +5,7 @@ Horarios y normas para las presentaciones de alumnos duales de **1º DAM** (Desa
 
 * [Cuadrante horario de las presentaciones](#cuadrante-horario-de-las-presentaciones)
 * [Índice a los repositorios con las presentaciones](#índice-a-los-repositorios-con-las-presentaciones)
-* [Listas de correo](#listas-de-correo)
+* [Tiempo para la presentación](#tiempo-para-la-presentación)
 * [Calendario escolar](#calendario-escolar)
 * [Normas de clase](#normas-de-clase)
 * [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
@@ -16,7 +16,7 @@ Horarios y normas para las presentaciones de alumnos duales de **1º DAM** (Desa
 * [Localización](#localizacion)
 * [Enlaces](#enlaces)
 
-Limitación mínima y máxima de tiempo (entre 15 y 20min y 5 min de preguntas)
+
 2-Formato y material de apoyo a la presentación: diapositivas (10-15) o video, y que entreguen una copia
 3-Contenido de la presentación:
 3.1-introducción a la empresa
@@ -58,7 +58,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Domínguez Barrientos, Rosa María - Viewnext]()
 * [Del Pino Heredia, Laura - Viewnext]()
 
-# Miércoles 29
+### Miércoles 29
 
 * [Romero Medina, Francisco José - Freepik]()
 * [Campos Vega, Álvaro – Dekra]()
@@ -68,3 +68,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Gómez Martín, José María – Rocketfy]()
 * [Morales Conejo, Alejandro – Indra]()
 * [Galera García, José Ángel – Indra]()
+
+## Tiempo para la presentación
+
+La presentación durará un mínimo de 15 minutos y un máximo de 20, dejando 5 minutos para un turno de preguntas.
