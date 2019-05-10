@@ -28,7 +28,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Pacheco Matas, Rubén - Future Connections]()
 * [Lerible García, Nicolás – Tecnilógica]()
 * [Valverde Garcia, Samuel - Tecnilógica]()
-* [García Molina, Jorge - Tecnilógica]()
+* [García Molina, Jorge - Tecnilógica](https://github.com/jorgegarcia1996/PresentacionEmpresa)
 * [Aragón Rodríguez, Rafael - Tecnilógica]()
 
 ### Martes 28
