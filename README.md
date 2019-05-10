@@ -6,7 +6,7 @@ Horarios y normas para las presentaciones de alumnos duales de **1º DAM** (Desa
 * [Cuadrante horario de las presentaciones](#cuadrante-horario-de-las-presentaciones)
 * [Índice a los repositorios con las presentaciones](#índice-a-los-repositorios-con-las-presentaciones)
 * [Tiempo para la presentación](#tiempo-para-la-presentación)
-* [Calendario escolar](#calendario-escolar)
+* [Contenido de la presentación](#contenido-de-la-presentación)
 * [Normas de clase](#normas-de-clase)
 * [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
 * [Perfiles de GitHub](#perfiles-de-github)
@@ -72,3 +72,15 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ## Tiempo para la presentación
 
 La presentación durará un mínimo de 15 minutos y un máximo de 20, dejando 5 minutos para un turno de preguntas.
+
+### Contenido de la presentación
+
+La presentación debe tener, como mínimo, el siguiente contenido:
+
+* Introducción a la empresa. Se debe hacer en común cuando en la misma empresa hay varios alumnos.
+* Tareas desempeñadas con temporalización por semanas.
+* Herramientas utilizadas.
+* Conocimientos adquiridos por cada módulo profesional.
+* Valoración de la experiencia dual por parte del alumno.
+
+
