@@ -4,7 +4,7 @@ Horarios y normas para las presentaciones de alumnos duales de **1º DAM** (Desa
 ## Índice
 
 * [Cuadrante horario de las presentaciones](#cuadrante-horario-de-las-presentaciones)
-* [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
+* [Índice a los repositorios con las presentaciones](#indice-a-los-repositorios-con-las-presentaciones)
 * [Listas de correo](#listas-de-correo)
 * [Calendario escolar](#calendario-escolar)
 * [Normas de clase](#normas-de-clase)
@@ -31,4 +31,19 @@ Limitación mínima y máxima de tiempo (entre 15 y 20min y 5 min de preguntas)
 El cuadrante horario de las presentaciones se puede descargar en formato pdf en el siguiente enlace:
 
 * [calendario_exposiciones_duales_1dawdam_2019.pdf](calendario_exposiciones_duales_1dawdam_2019.pdf)
+
+## Índice a los repositorios con las presentaciones
+
+Cada alumno debe enlazar con el repositorio donde tiene su presentación.
+
+### Lunes 27
+
+* [Sevilla Ruiz, Borja – Solbyte]()
+* [Leiva Brenes, Fernando – Properly]()
+* [Pastushenko, Román - Future Connections]()
+* [Pacheco Matas, Rubén - Future Connections]()
+* [Lerible García, Nicolás – Tecnilógica]()
+* [Valverde Garcia, Samuel - Tecnilógica]()
+* [García Molina, Jorge - Tecnilógica]()
+* [Aragón Rodríguez, Rafael - Tecnilógica]()
 
