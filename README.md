@@ -4,7 +4,7 @@ Horarios y normas para las presentaciones de alumnos duales de **1º DAM** (Desa
 ## Índice
 
 * [Cuadrante horario de las presentaciones](#cuadrante-horario-de-las-presentaciones)
-* [Índice a los repositorios con las presentaciones](#indice-a-los-repositorios-con-las-presentaciones)
+* [Índice a los repositorios con las presentaciones](#índice-a-los-repositorios-con-las-presentaciones)
 * [Listas de correo](#listas-de-correo)
 * [Calendario escolar](#calendario-escolar)
 * [Normas de clase](#normas-de-clase)
