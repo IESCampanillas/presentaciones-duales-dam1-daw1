@@ -8,6 +8,7 @@ Horarios y normas para las presentaciones de alumnos duales de **1º DAM** (Desa
 * [Tiempo para la presentación](#tiempo-para-la-presentación)
 * [Contenido de la presentación](#contenido-de-la-presentación)
 * [Formato de la presentación](#formato-de-la-presentación)
+* [Lugar de la presentación](#lugar-de-la-presentación)
 
 ## Cuadrante horario de las presentaciones
 
@@ -75,3 +76,9 @@ Se puede utilizar cualquier herramienta para elaborar la presentación. El alumn
 Independientemente de la herramienta utilizada para crear y mostrar la presentación, debe haber una versión en pdf en el repositorio de GitHub.
 
 Cualquier material utilizado en la presentación debe estar disponible desde el repositorio de GitHub: presentación original, presentación en formato pdf, enlaces a videos, etc.
+
+## Lugar de la presentación
+
+Las presentaciones tendrán lugar en el **salón de actos de la incubadora** sita en C/ Frederick Terman,3. 29590, PTA.
+
+Si te ha resultado útil este repositorio, por favor dale una ::star::
