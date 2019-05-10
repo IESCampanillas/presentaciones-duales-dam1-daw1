@@ -1,4 +1,4 @@
-# Presentaciones duales de 1º DAM y de 1º DAW
+# Presentaciones duales de 1º DAM y 1º DAW
 Horarios y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **1º DAW** (Desarrollo de Aplicaciones Web) del **IES Campanillas** (Málaga) del curso 2018 - 2019.
 
 ## Índice
