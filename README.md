@@ -66,7 +66,7 @@ La presentación debe tener, como mínimo, el siguiente contenido:
 * Conocimientos adquiridos por cada módulo profesional.
 * Valoración de la experiencia dual por parte del alumno.
 
-# Formato de la presentación
+## Formato de la presentación
 
 Se puede utilizar cualquier herramienta para elaborar la presentación. El alumno se puede apoyar en material multimedia si lo considera oportuno.
 
