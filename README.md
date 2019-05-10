@@ -28,19 +28,7 @@ Limitación mínima y máxima de tiempo (entre 15 y 20min y 5 min de preguntas)
 
 ## Cuadrante horario de las presentaciones
 
-| LUNES 27                                  | MARTES 28 | MIÉRCOLES 29 |
-| :---------------------------------------: | :---:  |   :---:   |
-| 9:00 – 9:30                               |
-| Sevilla Ruiz, Borja – Solbyte             |
-|                                           |
-| 9:30 – 10:00                              |
-| Leiva Brenes, Fernando – Properly         |
-|                                           |
-| 10:00 – 10:30                             |
-| Pastushenko, Román - Future Connections   |
-|                                           |
-| 10:30 – 11:00                             |
-| Pacheco Matas, Rubén - Future Connections |    |        |     |
+El cuadrante horario de las presentaciones se puede descargar en formato pdf en el siguiente enlace:
 
-[Cuadrante horario en formato pdf](calendario_exposiciones_duales_1dawdam_2019.pdf)
+* [calendario_exposiciones_duales_1dawdam_2019.pdf](calendario_exposiciones_duales_1dawdam_2019.pdf)
 
