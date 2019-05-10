@@ -81,4 +81,4 @@ Cualquier material utilizado en la presentación debe estar disponible desde el 
 
 Las presentaciones tendrán lugar en el **salón de actos de la incubadora** sita en C/ Frederick Terman,3. 29590, PTA.
 
-Si te ha resultado útil este repositorio, por favor dale una ::star::
+Si te ha resultado útil este repositorio, por favor dale una :star:
