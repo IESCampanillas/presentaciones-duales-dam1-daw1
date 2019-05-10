@@ -56,6 +56,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 La presentación durará un mínimo de 15 minutos y un máximo de 20, dejando 5 minutos para un turno de preguntas.
 
+Los alumnos de una misma empresa deberán estar juntos a la hora que le toque al primero de esa empresa para poder hablar juntos de sobre la misma. Por ejemplo, todos los alumnos de Viewnext deberán estar presentes a las 10:00h ya que esa es la hora a la que está citado el primer alumno de Viewnext.
+
 ## Contenido de la presentación
 
 La presentación debe tener, como mínimo, el siguiente contenido:
