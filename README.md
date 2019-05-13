@@ -22,7 +22,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Lunes 27
 
-* [Sevilla Ruiz, Borja – Solbyte]()
+* [Sevilla Ruiz, Borja – Solbyte](https://github.com/bsevrui/Presentaci-n-Dual)
 * [Leiva Brenes, Fernando – Properly]()
 * [Pastushenko, Román - Future Connections]()
 * [Pacheco Matas, Rubén - Future Connections]()
