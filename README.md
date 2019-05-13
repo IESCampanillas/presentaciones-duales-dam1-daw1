@@ -40,7 +40,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Perea Ropero, Mercedes – Viewnext]()
 * [Haller Ríos, Lino - Viewnext]()
 * [Domínguez Barrientos, Rosa María - Viewnext]()
-* [Del Pino Heredia, Laura - Viewnext]()
+* [Del Pino Heredia, Laura - Viewnext](https://github.com/lauradelpino24/Presentacion-Dual)
 
 ### Miércoles 29
 
