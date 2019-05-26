@@ -27,7 +27,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Pastushenko, Román - Future Connections](https://github.com/romanpastu/Presentacion-Dual-1oDaw)
 * [Pacheco Matas, Rubén - Future Connections]()
 * [Lerible García, Nicolás – Tecnilógica]()
-* [Valverde Garcia, Samuel - Tecnilógica]()
+* [Valverde Garcia, Samuel - Tecnilógica](https://github.com/samuelvalverde28/presentacion1DAW)
 * [García Molina, Jorge - Tecnilógica](https://github.com/jorgegarcia1996/PresentacionEmpresa)
 * [Aragón Rodríguez, Rafael - Tecnilógica]()
 
