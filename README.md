@@ -26,10 +26,10 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Leiva Brenes, Fernando – Properly](https://github.com/FernandoLeivaBrenes/presentacion2019_05_27)
 * [Herrera Fonseca, Antonio – Avanade]()
 * [Jiménez Quintana, José Daniel – Avanade]()
-* [Lerible García, Nicolás – Tecnilógica]()
+* [Lerible García, Nicolás – Tecnilógica](https://github.com/nicolaslerible/presentacionempresa)
 * [Valverde Garcia, Samuel - Tecnilógica](https://github.com/samuelvalverde28/presentacion1DAW)
 * [García Molina, Jorge - Tecnilógica](https://github.com/jorgegarcia1996/PresentacionEmpresa)
-* [Aragón Rodríguez, Rafael - Tecnilógica]()
+* [Aragón Rodríguez, Rafael - Tecnilógica](https://github.com/jorgegarcia1996/PresentacionEmpresa)
 
 ### Martes 28
 
