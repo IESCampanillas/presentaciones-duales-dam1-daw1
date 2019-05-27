@@ -36,7 +36,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Pastushenko, Román - Future Connections](https://github.com/romanpastu/Presentacion-Dual-1oDaw)
 * [Pacheco Matas, Rubén - Future Connections](https://github.com/rubenpachecomatas/Presentacion-Dual)
 * [Gómez Peña, Alberto – Viewnext](https://github.com/albertogomezp/presentacionDUAL)
-* [Pérez Molina, Iván - Viewnext]()
+* [Pérez Molina, Iván - Viewnext](https://github.com/ivanperezmolina/presentaciondual)
 * [Perea Ropero, Mercedes – Viewnext](https://github.com/mmercedesperea/Presentacion_Dual)
 * [Haller Ríos, Lino - Viewnext](https://github.com/LinoHallerRios/DUAL)
 * [Domínguez Barrientos, Rosa María - Viewnext]()
