@@ -51,7 +51,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Montes Expósito, Rafael – Rocketfy]()
 * [Gómez Martín, José María – Rocketfy]()
 * [Morales Conejo, Alejandro – Indra]()
-* [Galera García, José Ángel – Indra]()
+* [Galera García, José Ángel – Indra](https://github.com/joseangelgalera/Presentacion-FP-Dual)
 
 ## Tiempo para la presentación
 
