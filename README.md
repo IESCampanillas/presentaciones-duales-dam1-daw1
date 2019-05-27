@@ -24,8 +24,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 * [Sevilla Ruiz, Borja – Solbyte](https://github.com/bsevrui/Presentaci-n-Dual)
 * [Leiva Brenes, Fernando – Properly](https://github.com/FernandoLeivaBrenes/presentacion2019_05_27)
-* [Pastushenko, Román - Future Connections](https://github.com/romanpastu/Presentacion-Dual-1oDaw)
-* [Pacheco Matas, Rubén - Future Connections](https://github.com/rubenpachecomatas/Presentacion-Dual)
+* [Herrera Fonseca, Antonio – Avanade]()
+* [Jiménez Quintana, José Daniel – Avanade]()
 * [Lerible García, Nicolás – Tecnilógica]()
 * [Valverde Garcia, Samuel - Tecnilógica](https://github.com/samuelvalverde28/presentacion1DAW)
 * [García Molina, Jorge - Tecnilógica](https://github.com/jorgegarcia1996/PresentacionEmpresa)
@@ -33,8 +33,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Martes 28
 
-* [Herrera Fonseca, Antonio – Avanade]()
-* [Jiménez Quintana, José Daniel – Avanade]()
+* [Pastushenko, Román - Future Connections](https://github.com/romanpastu/Presentacion-Dual-1oDaw)
+* [Pacheco Matas, Rubén - Future Connections](https://github.com/rubenpachecomatas/Presentacion-Dual)
 * [Gómez Peña, Alberto – Viewnext]()
 * [Pérez Molina, Iván - Viewnext]()
 * [Perea Ropero, Mercedes – Viewnext]()
