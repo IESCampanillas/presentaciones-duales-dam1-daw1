@@ -23,7 +23,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ### Lunes 27
 
 * [Sevilla Ruiz, Borja – Solbyte](https://github.com/bsevrui/Presentaci-n-Dual)
-* [Leiva Brenes, Fernando – Properly]()
+* [Leiva Brenes, Fernando – Properly](https://github.com/FernandoLeivaBrenes/presentacion2019_05_27)
 * [Pastushenko, Román - Future Connections](https://github.com/romanpastu/Presentacion-Dual-1oDaw)
 * [Pacheco Matas, Rubén - Future Connections]()
 * [Lerible García, Nicolás – Tecnilógica]()
