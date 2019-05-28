@@ -39,7 +39,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Pérez Molina, Iván - Viewnext](https://github.com/ivanperezmolina/presentaciondual)
 * [Perea Ropero, Mercedes – Viewnext](https://github.com/mmercedesperea/Presentacion_Dual)
 * [Haller Ríos, Lino - Viewnext](https://github.com/LinoHallerRios/DUAL)
-* [Domínguez Barrientos, Rosa María - Viewnext]()
+* [Domínguez Barrientos, Rosa María - Viewnext](https://github.com/rosadominguez/PresentacionDUAL)
 * [Del Pino Heredia, Laura - Viewnext](https://github.com/lauradelpino24/Presentacion-Dual)
 
 ### Miércoles 29
