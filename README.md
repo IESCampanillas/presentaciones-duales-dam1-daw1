@@ -47,7 +47,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Romero Medina, Francisco José - Freepik]()
 * [Campos Vega, Álvaro – Dekra](https://github.com/AlvaroCamposVega/Presentacion-FP-DUAL-2019)
 * [Cardoso Canillas, Samuel - DXC]()
-* [Robles Bastida, José – CGI]()
+* [Robles Bastida, José – CGI](https://github.com/Jose-Robles/Presentation-FP-DUAL-2019)
 * [Montes Expósito, Rafael – Rocketfy]()
 * [Gómez Martín, José María – Rocketfy]()
 * [Morales Conejo, Alejandro – Indra]()
