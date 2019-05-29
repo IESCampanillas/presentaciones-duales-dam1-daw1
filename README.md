@@ -44,7 +44,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Miércoles 29
 
-* [Romero Medina, Francisco José - Freepik]()
+* [Romero Medina, Francisco José - Freepik](https://github.com/fromero98/PresentacionDual)
 * [Campos Vega, Álvaro – Dekra](https://github.com/AlvaroCamposVega/Presentacion-FP-DUAL-2019)
 * [Cardoso Canillas, Samuel - DXC]()
 * [Robles Bastida, José – CGI](https://github.com/Jose-Robles/Presentation-FP-DUAL-2019)
