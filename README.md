@@ -49,7 +49,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Cardoso Canillas, Samuel - DXC](https://github.com/samuelcardoso21/Presentacion-dual)
 * [Robles Bastida, José – CGI](https://github.com/Jose-Robles/Presentation-FP-DUAL-2019)
 * [Montes Expósito, Rafael – Rocketfy](https://github.com/rafaelmontes8/presentaciondual)
-* [Gómez Martín, José María – Rocketfy]()
+* [Gómez Martín, José María – Rocketfy](https://github.com/josemariagomez/exposicion-dual)
 * [Morales Conejo, Alejandro – Indra](https://github.com/AlejandroMoralesConejo/presentacionDual)
 * [Galera García, José Ángel – Indra](https://github.com/joseangelgalera/Presentacion-FP-Dual)
 
